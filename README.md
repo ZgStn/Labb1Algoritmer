@@ -41,7 +41,8 @@ A substring is considered a valid number if:
 | `34363`  | ❌ No  | Contains an extra `3` inside |
 | `95a9`   | ❌ No  | Contains a letter |
 
-![Example output](Exempel output for input.jpg)
+![Example output](example-output-for-input.jpg)
+
 
 
 
